@@ -1,8 +1,14 @@
 # AdventOfCode2017
 My solutions to 2017 Advent of Code
 
+Version 1.1.2 - 12/25/17
+* js/d1p2.js - Changed algorithm for iterating through string
+
+Version 1.1.1 - 12/25/17
+* js/d1p2.js - Added console.log statement for debugging
+
 Version 1.1 - 12/25/17
-* hs/d1p2.js - Updated to implement solution
+* js/d1p2.js - Updated to implement solution
 
 Version 1.0 - 12/25/17
 * index.html - Intro and links to first 2 puzzles
