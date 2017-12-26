@@ -7,13 +7,13 @@ function match(char1, char2) {
 function captcha2(input) {
   var inputLength = input.length;
   if (inputLength < 2) return 0;
-  var offset = inputLength/2;
   var solution = 0;
   var curChar = "";
   var offsetChar = "";
-  for (i = 0; i < (inputLength-1); i++) {
+  for (var i = 0, offset = inputLength/2; i < (inputLength); i++, offset++) {
     curChar = input.slice(i, i+1);
-    offsetChar = input.slice((i+offset) % inputLength, (i+offset+1) % inputLength);
+    offset %= inputLength;
+    offsetChar = input.slice(offset, offset+1);
     solution += match(curChar, offsetChar);
     console.log("curChar = " + curChar + ", offsetChar = " + offsetChar + ", solution = " + solution);
   }
