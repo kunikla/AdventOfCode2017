@@ -1,6 +1,9 @@
 # AdventOfCode2017
 My solutions to 2017 Advent of Code
 
+Version 1.1.3 - 12/25/17
+* js./d1p2.js - Added console.log statements for debugging
+
 Version 1.1.2 - 12/25/17
 * js/d1p2.js - Changed algorithm for iterating through string
 
