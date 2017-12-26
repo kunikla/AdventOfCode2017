@@ -1,0 +1,17 @@
+body {
+  background: forestgreen;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  color: darkgoldenrod;
+}
+
+a {
+  font-weight: bold;
+  color: red;
+}
+
+a:visited {
+  color: darkgreen;
+}
