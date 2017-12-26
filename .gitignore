@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+# PHPStorm files
+.idea/AdventOfCode2017.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml

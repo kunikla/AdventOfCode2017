@@ -1,6 +1,13 @@
 # AdventOfCode2017
 My solutions to 2017 Advent of Code
 
+Version 1.1.4 - 12/26/17
+* css/styles.css - Removed darkgreen color for visited links
+* js/d1p1.js - Commented out console.log commands
+* js/d1p1.js - Line 2: changed to strict compare
+* js/d1p2.js - Commented out console.log commands
+* js/d1p2.js - Line 2: changed to strict compare
+
 Version 1.1.3 - 12/25/17
 * js./d1p2.js - Added console.log statements for debugging
 
