@@ -15,6 +15,7 @@ function captcha2(input) {
     curChar = input.slice(i, i+1);
     offsetChar = input.slice((i+offset) % inputLength, (i+offset+1) % inputLength);
     solution += match(curChar, offsetChar);
+    console.log("curChar = " + curChar + ", offsetChar = " + offsetChar + ", solution = " + solution);
   }
   return solution;
 }
