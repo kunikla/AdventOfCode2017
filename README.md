@@ -1,6 +1,9 @@
 # AdventOfCode2017
 My solutions to 2017 Advent of Code
 
+Version 2.0.1 - 12/28/17
+* updated list of files to be included in repo
+
 Version 2.0.0 - 12/28/17
 * total rewrite of HTML and CSS
 * use Bootstrap 4
