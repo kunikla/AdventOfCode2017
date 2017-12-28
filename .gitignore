@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# PHPStorm files
+.idea/AdventOfCode2017.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+
+# system files
+.directory
+
+# Directory for archived files
+/ignore
+
