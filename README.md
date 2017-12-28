@@ -1,6 +1,27 @@
 # AdventOfCode2017
 My solutions to 2017 Advent of Code
 
+Version 2.0.0 - 12/28/17
+* total rewrite of HTML and CSS
+* use Bootstrap 4
+* restructure content on page
+* add background image
+* add decorative font for titles
+* select appropriate colors
+
+Version 1.1.5 - 12/26/17
+* js/ - renamed files so day is allocated 2 digits
+* / - renamed files so day is allocated 2 digits
+* index.html - changed links to html files
+* dxxpy.hgml - created template for new pages
+* d01p1.html - changed link to js file
+* d01p1.html - moved AOC sequence out of ul to p with class for soft word-wrap
+* d01p2.html - changed link to js file
+* d01p2.html - moved AOC sequence out of ul to p with class for soft word-wrap
+* fonts/CartoonBlocksChristmasSC.otf - added file
+* css/styles.css - added style to allow use of this Christmas font
+* css/styles.css - changed h1 to use Christmas font
+
 Version 1.1.4 - 12/26/17
 * css/styles.css - Removed darkgreen color for visited links
 * js/d1p1.js - Commented out console.log commands
